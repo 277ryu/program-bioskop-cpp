@@ -9,8 +9,8 @@ g++ -Iinclude .\src\admin.cpp .\src\bioskop.cpp .\src\main.cpp .\src\member.cpp 
 .\cinema.exe
 ```
 
-## 🔍 Fitur Program
-### Admin
+## 🔍Fitur Program
+### 👤Admin
 -  Tambah film (ID, judul, genre, durasi, harga tiket)
 -  Hapus film berdasarkan ID
 -  Lihat daftar film
@@ -18,14 +18,14 @@ g++ -Iinclude .\src\admin.cpp .\src\bioskop.cpp .\src\main.cpp .\src\member.cpp 
 -  Hapus member berdasarkan username
 -  Ubah harga tiket (berlaku untuk semua film)
 
-### Member
+### 👥Member
 -  Login dengan username & password
 -  Buat akun baru otomatis saat login
 -  Lihat daftar film
 -  Beli tiket film
 -  Tambah saldo
 
-## 📁 Struktur File
+## 📁Struktur File
 
 ```
 program-bioskop-cpp/
@@ -46,7 +46,7 @@ program-bioskop-cpp/
 └── README.md
 ```
 
-## 📄 Format File Data
+## 📄Format File Data
 
 ### input.txt
 
@@ -86,7 +86,7 @@ Saldo tersisa: Rp250000
 ===========================
 ```
 
-## Techstack
+## 💻Tech
 
 - **Bahasa**            : C++
 - **Code Editor**       : Visual Studio Code
@@ -95,7 +95,7 @@ Saldo tersisa: Rp250000
 
 ---
 
-**ABSOLUTE CINEMA**
+**🎞️ABSOLUTE CINEMA🎞️**
 
 > Muhammad Affriza Ayman Nashmi
 > 25/559828/TK/63201

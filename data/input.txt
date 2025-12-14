@@ -1,0 +1,41 @@
+=== MOVIES ===
+1
+Dead Poets Society
+Drama
+129
+50000
+2
+Good Will Hunting
+Drama
+126
+30000
+3
+Fight Club
+Action
+139
+40000
+4
+The Truman Show
+Comedy
+103
+30000
+5
+Interstellar
+Science Fiction
+169
+45000
+6
+Forrest Gump
+Comedy
+142
+30000
+=== MEMBERS ===
+joni
+joni67
+290000
+waltuh
+walt66
+150000
+=== ADMIN ===
+friz
+friz123

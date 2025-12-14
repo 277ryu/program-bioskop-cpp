@@ -1,0 +1,20 @@
+===== STRUK PEMBELIAN TIKET =====
+Member: joni
+Film: Dead Poets Society
+Harga: Rp50000
+Saldo tersisa: Rp250000
+===========================
+
+===== STRUK PEMBELIAN TIKET =====
+Member: joni
+Film: The Truman Show
+Harga: Rp30000
+Saldo tersisa: Rp320000
+===========================
+
+===== STRUK PEMBELIAN TIKET =====
+Member: joni
+Film: Good Will Hunting
+Harga: Rp30000
+Saldo tersisa: Rp290000
+===========================
